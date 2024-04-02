@@ -1,17 +1,1 @@
-Joan: 270
-Rosa: 480
-Toni: 540
-Dani: 320
-Iker: 260
-Sergi: 310
-Pol: 240
-Marc: 280
-Javi: 400
 
-AVG: 344 --> (300,400)
-
-Likely lowest value: 230
-Likely highest value: 690
-
-Highest Affinity Cards' Affinity Should Be: 400+/500+
-Lowest Affinity Cards' Affinity Should Be: 300-/350-
